@@ -1,0 +1,4 @@
+El video me ayudo a entender que el momento no es solo programar si no tambien entender la logica de lo que estas haciendo
+y lo que mas resulto interesante es como se preparan para los dias de Black Friday o Cyber Monday, tambien se me hizo enteresante 
+fue que si los servicios se saturan los "servicios secundarios" como recomendaciones o reseñas se suspenden para que el carrito y los pagos 
+nunca se caigan,ademas, tambien que los ingenieros hacen pruebas 24/7 antes de estos eventos para desviar el trafico a los servidores de respaldo.
